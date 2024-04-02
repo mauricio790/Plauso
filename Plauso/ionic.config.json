@@ -1,0 +1,7 @@
+{
+  "name": "Plauso",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
